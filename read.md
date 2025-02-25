@@ -28,9 +28,10 @@ Bigram means using a sequence of two consecutive word in a text rather than sing
 Apart from this, there are many methods of feature extraction for SVM such as TF-IDF, Word Embedding and more, I have used Count Vectorization in this case of scenario.
 
 2>. For preprocessing certain steps are followed: 
-a) extraction of possible features using regex
-b) removal of unnecessary columns and rows with null check
-c) using tokenization to create tokens
+
+a). extraction of possible features using regex
+b). removal of unnecessary columns and rows with null check
+c). using tokenization to create tokens
 
 3>. A base line model is created along with classification report and AUC-ROC curve.
 

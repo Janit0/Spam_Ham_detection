@@ -21,21 +21,21 @@ The data is in a CSV format containing mainly four features:
 
 # Method of approach:
 
-1>.For this detection, the methodology followed is a Bigram SVM classifier which is trained on bigram features for the text classification.
+1.For this detection, the methodology followed is a Bigram SVM classifier which is trained on bigram features for the text classification.
 
 Bigram means using a sequence of two consecutive word in a text rather than single words.
 
 Apart from this, there are many methods of feature extraction for SVM such as TF-IDF, Word Embedding and more, I have used Count Vectorization in this case of scenario.
 
-2>. For preprocessing certain steps are followed: 
+2. For preprocessing certain steps are followed: 
 
-a. extraction of possible features using regex
-b. removal of unnecessary columns and rows with null check
-c. using tokenization to create tokens
+2.1. extraction of possible features using regex
+2.2. removal of unnecessary columns and rows with null check
+2.3. using tokenization to create tokens
 
-3>. A base line model is created along with classification report and AUC-ROC curve.
+3. A base line model is created along with classification report and AUC-ROC curve.
 
-4>. Tuning was performed using cross-validation. probability factor and bagging model.
+4. Tuning was performed using cross-validation. probability factor and bagging model.
 
 # Results: 
 

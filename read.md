@@ -29,9 +29,7 @@ Apart from this, there are many methods of feature extraction for SVM such as TF
 
 2. For preprocessing certain steps are followed: 
 
-extraction of possible features using regex.
-removal of unnecessary columns and rows with null check.
-using tokenization to create tokens.
+extraction of possible features using regex --> removal of unnecessary columns and rows with null check --> using tokenization to create tokens
 
 3. A base line model is created along with classification report and AUC-ROC curve.
 

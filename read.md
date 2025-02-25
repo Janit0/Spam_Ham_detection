@@ -1,6 +1,8 @@
-# Project Overview: This project is for detection of an email whether to be a spam or ham using a support vector machine(SVM) algorithm.
+# Project Overview: 
+This project is for detection of an email whether to be a spam or ham using a support vector machine(SVM) algorithm.
 
-# Project Scenario: Emailing has become one of the major communication method for business, advertising and many more, however
+# Project Scenario: 
+Emailing has become one of the major communication method for business, advertising and many more, however
 
 # Project Objectives: 
 

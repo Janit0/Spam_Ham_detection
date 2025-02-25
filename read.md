@@ -44,9 +44,10 @@ c) using tokenization to create tokens
 
 # Files in repo:
 
-|Files...| Description...|
-|Bigram.ipynb| Main coding file with approach followed and more elaboration of suggestion and results gained|
-|consolidated,csv| Data file used for this project|
+|Files...        | Description...                                                                               |
+|----------------|----------------------------------------------------------------------------------------------|
+|Bigram.ipynb    | Main coding file with approach followed and more elaboration of suggestion and results gained|
+|consolidated.csv| Data file used for this project                                                              |
 
 
 
